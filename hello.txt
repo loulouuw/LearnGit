@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello ici le fichier txt
+=======
+Hello ici le fichier txt sur la branche feature
+Cassio surcotée
+>>>>>>> 3ec8b45 (troisieme commit)
