@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello ici le fichier txt
 =======
 Hello ici le fichier txt sur la branche feature
@@ -8,3 +9,7 @@ Cassio surcotée
 =======
 Hello ici le fichier txt sur la branche feature
 >>>>>>> fcf7f22 (deuxieme commit)
+=======
+Hello ici le fichier txt sur la branche feature
+Cassio surcotée
+>>>>>>> 3ec8b45174c36153a15f743da1419225da0089e0
